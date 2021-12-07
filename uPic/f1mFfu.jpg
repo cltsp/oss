@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>File:Priv rings.svg - 维基百科，自由的百科全书</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"b84bdf05-3b2f-49e4-a1ba-f7bf4945d9c6","wgCSPNonce":false,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"File:Priv_rings.svg","wgTitle":"Priv rings.svg","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"File:Priv_rings.svg","wgRelevantArticleId":0,"wgUserVariant":"zh-cn","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionCreate":[],"wgRestrictionUpload":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault"
+:true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":0,"wgNoticeProject":"wikipedia","wgULSCurrentAutonym":"中文（中国大陆）","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":false};RLSTATE={"ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
+"ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["mediawiki.action.view.metadata","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.edit0","ext.gadget.Edittools-refToolbar","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","ext.gadget.UnihanTooltips","ext.gadget.variant-link-fix","ext.gadget.shortURL","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.noteTAvector","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.notifyConversion","ext.gadget.CollapsibleSidebar","ext.gadget.scrollUpButton","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.uls.compactlinks","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"language":"zh-cn","variant":"zh-cn"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cmediawiki.action.view.filepage%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<link rel="stylesheet" href="https://commons.wikimedia.org/w/index.php?title=MediaWiki:Filepage.css&amp;action=raw&amp;ctype=text/css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.38.0-wmf.9"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/1200px-Priv_rings.svg.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="866"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/800px-Priv_rings.svg.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="577"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/640px-Priv_rings.svg.png"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="462"/>
+<meta property="og:title" content="File:Priv rings.svg - 维基百科，自由的百科全书"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//zh.m.wikipedia.org/wiki/File:Priv_rings.svg"/>
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=File:Priv_rings.svg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="alternate" hreflang="zh" href="/zh/File:Priv_rings.svg"/>
+<link rel="alternate" hreflang="zh-Hans" href="/zh-hans/File:Priv_rings.svg"/>
+<link rel="alternate" hreflang="zh-Hant" href="/zh-hant/File:Priv_rings.svg"/>
+<link rel="alternate" hreflang="zh-Hans-CN" href="/zh-cn/File:Priv_rings.svg"/>
+<link rel="alternate" hreflang="zh-Hant-HK" href="/zh-hk/File:Priv_rings.svg"/>
+<link rel="alternate" hreflang="zh-Hant-MO" href="/zh-mo/File:Priv_rings.svg"/>
+<link rel="alternate" hreflang="zh-Hans-MY" href="/zh-my/File:Priv_rings.svg"/>
+<link rel="alternate" hreflang="zh-Hans-SG" href="/zh-sg/File:Priv_rings.svg"/>
+<link rel="alternate" hreflang="zh-Hant-TW" href="/zh-tw/File:Priv_rings.svg"/>
+<link rel="alternate" hreflang="x-default" href="/wiki/File:Priv_rings.svg"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:Priv_rings.svg"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject mw-editable page-File_Priv_rings_svg rootpage-File_Priv_rings_svg skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-commons-icon" class="mw-indicator"><a href="https://commons.wikimedia.org/wiki/File:Priv_rings.svg" title="commons:File:Priv rings.svg"><img alt="这个文件来自维基共享资源" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/14px-Commons-logo.svg.png" decoding="async" width="14" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/21px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading"  lang="zh-Hans-CN" dir="ltr">File:Priv rings.svg</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+		<div id="contentSub" lang="zh-Hans-CN" dir="ltr"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">跳到导航</a>
+		<a class="mw-jump-link" href="#searchInput">跳到搜索</a>
+		<div id="mw-content-text" class="mw-body-content"><ul id="filetoc"><li><a href="#file">文件</a></li>
+<li><a href="#filehistory">文件历史</a></li>
+<li><a href="#filelinks">文件用途</a></li>
+<li><a href="#globalusage">全域文件用途</a></li>
+<li><a href="#metadata">元数据</a></li></ul><div class="fullImageLink" id="file"><a href="//upload.wikimedia.org/wikipedia/commons/2/2f/Priv_rings.svg"><img alt="File:Priv rings.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/675px-Priv_rings.svg.png" decoding="async" width="675" height="487" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/1013px-Priv_rings.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/1350px-Priv_rings.svg.png 2x" data-file-width="675" data-file-height="487" /></a><div class="mw-filepage-resolutioninfo">此SVG文件的PNG预览的大小：<a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/675px-Priv_rings.svg.png" class="mw-thumbnail-link">675 × 487像素</a>。 <span class="mw-filepage-other-resolutions">其他分辨率：<a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/320px-Priv_rings.svg.png" class="mw-thumbnail-link">320 × 231像素</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/640px-Priv_rings.svg.png" class="mw-thumbnail-link">640 × 462像素</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/1024px-Priv_rings.svg.png" class="mw-thumbnail-link">1,024 × 739像素</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/1280px-Priv_rings.svg.png" class="mw-thumbnail-link">1,280 × 923像素</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/2560px-Priv_rings.svg.png" class="mw-thumbnail-link">2,560 × 1,847像素</a>。</span></div></div>
+<div class="fullMedia"><p><a href="//upload.wikimedia.org/wikipedia/commons/2/2f/Priv_rings.svg" class="internal" title="Priv rings.svg">原始文件</a> &#8206;<span class="fileInfo">（SVG文件，尺寸为675 × 487像素，文件大小：1 KB）</span>
+</p></div><div class="sharedUploadNotice">
+<p class="mw-empty-elt">
+</p>
+<table id="mw-sharedupload" class="plainlinks fmbox fmbox-system" role="presentation"><tbody><tr><td class="mbox-image"><img alt="Wikimedia Commons Logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/50px-Commons-logo.svg.png" decoding="async" title="Wikimedia Commons Logo" width="50" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/75px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/100px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td><td class="mbox-text" style="font-size: 100%; text-align: center;">本文件并非来自<a href="/wiki/%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91" title="中文维基百科">中文维基百科</a>，而是来自<a href="https://commons.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5" class="extiw" title="commons:首页">维基共享资源</a>。请参阅维基共享资源上的<b><a class="external text" href="https://commons.wikimedia.org/wiki/File:Priv_rings.svg?uselang=zh-cn">详细描述</a></b>、<a class="external text" href="https://commons.wikimedia.org/wiki/File_talk:Priv_rings.svg?uselang=zh-cn">讨论页</a>、<a class="external text" href="https://commons.wikimedia.org/wiki/File:Priv_rings.svg?action=history&amp;uselang=zh-cn">页面历史</a>、<a class="external text" href="https://commons.wikimedia.org/wiki/Special:Log?uselang=zh-cn&amp;page=File:Priv_rings.svg">日志</a>。
+<div style="text-align: center; font-size:smaller;">维基共享资源是一个储存自由版权作品的项目。您可以向此项目<a href="https://commons.wikimedia.org/wiki/Commons:Upload/zh" class="extiw" title="commons:Commons:Upload/zh">作出贡献</a>。</div></td></tr></tbody></table>
+</div>
+<hr style="clear:both; width:100%; color:#c00000; background-color:#c00000; height:3px; margin-top:0.4em;" /><div id="shared-image-desc"><div class="mw-parser-output"><h2><span id=".E6.91.98.E8.A6.81"></span><span class="mw-headline" id="摘要">摘要</span></h2>
+<div class="hproduct commons-file-information-table">
+<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4"><tbody><tr style="vertical-align: top"><td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="zh-cn">说明<span class="summary fn" style="display:none">Priv rings.svg</span></td>
+<td class="description">
+<div class="description mw-content-ltr en" dir="ltr" lang="en"><span class="language en" title="英语"><b>English: </b></span> Privilege rings for the x86, along with their common uses.</div></td>
+</tr><tr style="vertical-align: top"><td id="fileinfotpl_date" class="fileinfo-paramfield" lang="zh-cn">日期</td>
+<td lang="zh-cn">
+2007年8月24日 (原始上传日期)</td>
+</tr><tr style="vertical-align: top"><td id="fileinfotpl_src" class="fileinfo-paramfield" lang="zh-cn">来源</td>
+<td>
+Transferred from <span class="plainlinks"><a class="external text" href="https://en.wikipedia.org">en.wikipedia</a></span> to Commons.</td>
+</tr><tr style="vertical-align: top"><td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="zh-cn">作者</td>
+<td>
+<a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">英语维基百科</a>的<a href="https://en.wikipedia.org/wiki/User:Hertzsprung" class="extiw" title="wikipedia:User:Hertzsprung">Hertzsprung</a></td>
+</tr><tr style="vertical-align: top"><td id="fileinfotpl_perm" class="fileinfo-paramfield" lang="zh-cn">授权<br><small>(<a href="//commons.wikimedia.org/wiki/Commons:%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%A4%96%E7%9A%84%E5%86%85%E5%AE%B9%E4%BA%8C%E6%AC%A1%E4%BD%BF%E7%94%A8" class="mw-redirect" title="Commons:维基媒体外的内容二次使用">二次使用本文件</a>)</small></td>
+<td>
+<div style="clear:both; margin:0.5em auto; background-color:#eee; border:2px solid #ddd; padding:8px; direction: ltr;" class="licensetpl_wrapper">
+<div class="center" style="font-weight:bold;"><div lang="zh-cn" dir="ltr" class="description zh-cn" style="display:inline;"><span class="licensetpl_aut"><a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">英语维基百科</a>的<a href="https://en.wikipedia.org/wiki/User:Hertzsprung" class="extiw" title="wikipedia:User:Hertzsprung">Hertzsprung</a></span>，本作品著作权人，特此采用以下许可协议发表本作品：</div></div>
+<table cellspacing="8" cellpadding="0" style="width:100%; clear:both; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; direction: ltr;" lang="zh-cn" class="layouttemplate licensetpl"><tbody><tr><td><img alt="GNU head" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/64px-Heckert_GNU_white.svg.png" decoding="async" title="GNU head" width="64" height="63" class="noviewer" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/96px-Heckert_GNU_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/128px-Heckert_GNU_white.svg.png 2x" data-file-width="535" data-file-height="523"></td>
+<td>已授权您依据<a href="https://en.wikipedia.org/wiki/zh:%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6%E5%9F%BA%E9%87%91%E4%BC%9A" class="extiw" title="w:zh:自由软件基金会">自由软件基金会</a>发行的无固定段落及封面封底文字（Invariant Sections, Front-Cover Texts, and Back-Cover Texts）的<b><a href="https://en.wikipedia.org/wiki/zh:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81" class="extiw" title="w:zh:GNU自由文档许可证">GNU自由文件许可协议</a></b>1.2版或任意后续版本的条款，复制、传播和／或修改本文件。该协议的副本请见“<a href="//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2" title="Commons:GNU Free Documentation License, version 1.2">GNU Free Documentation License</a>”。<span class="licensetpl_link" style="display:none;">http://www.gnu.org/copyleft/fdl.html</span><span class="licensetpl_short" style="display:none;">GFDL</span><span class="licensetpl_long" style="display:none;">GNU Free Documentation License</span><span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span>
+</td></tr></tbody></table><table style="width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; padding: 0; border-spacing: 8px;" class="layouttemplate licensetpl mw-content-ltr" lang="zh-cn"><tbody><tr><td style="width:90px;" rowspan="4"><img alt="w:zh:知识共享" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png" decoding="async" title="w:zh:知识共享" width="90" height="36" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x" data-file-width="744" data-file-height="300"><br><img alt="署名" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png" decoding="async" title="署名" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x" data-file-width="64" data-file-height="64"> <img alt="相同方式共享" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/24px-Cc-sa.svg.png" decoding="async" title="相同方式共享" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/36px-Cc-sa.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/48px-Cc-sa.svg.png 2x" data-file-width="64" data-file-height="64"></td>
+<td>本文件采用<a href="https://en.wikipedia.org/wiki/zh:%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB" class="extiw" title="w:zh:知识共享">知识共享</a><a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh">署名-相同方式共享 3.0 未本地化版本</a>许可协议授权。
+</td>
+<td style="width:90px;" rowspan="4">
+</td></tr><tr style="text-align:center;"><td><b>署名: <span style="font-size: larger;" class="licensetpl_attr"><a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">英语维基百科</a>的<a href="https://en.wikipedia.org/wiki/User:Hertzsprung" class="extiw" title="wikipedia:User:Hertzsprung">Hertzsprung</a></span></b>
+</td></tr><tr style="text-align:left;"><td>
+<dl><dd>您可以自由地：
+<ul><li><b>共享</b> – 复制、发行并传播本作品</li>
+<li><b>修改</b> – 改编作品</li></ul></dd>
+<dd>惟须遵守下列条件：
+<ul><li><b>署名</b> – 您必须指出正确的原作者，提供授权条款的链接，并说明是否对原始内容进行了更改。您可以用任何合理的方式来署名，但不得以任何方式表明许可人认可您或您的使用。</li>
+<li><b>相同方式共享</b> – 如果您再混合、转换或者基于本作品进行创作，您必须以<a rel="nofollow" class="external text" href="https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses">与原先许可协议相同或相兼容的许可协议</a>分发您贡献的作品。</li></ul></dd></dl></td></tr><tr style="text-align:center;"><td><span style="font-size:90%;">本许可协议标签作为GFDL<a href="https://meta.wikimedia.org/wiki/Licensing_update/zh-hans" class="extiw" title="meta:Licensing update/zh-hans">许可协议更新</a>的组成部分被添加至本文件。</span><span class="licensetpl_link" style="display:none;">http://creativecommons.org/licenses/by-sa/3.0/</span><span class="licensetpl_short" style="display:none;">CC-BY-SA-3.0</span><span class="licensetpl_long" style="display:none;">Creative Commons Attribution-Share Alike 3.0</span><span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span>
+</td></tr></tbody></table><table style="width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; padding: 0; border-spacing: 8px;" class="layouttemplate licensetpl mw-content-ltr" lang="zh-cn"><tbody><tr><td style="width:90px;" rowspan="3"><img alt="w:zh:知识共享" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png" decoding="async" title="w:zh:知识共享" width="90" height="36" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x" data-file-width="744" data-file-height="300"><br><p><img alt="署名" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png" decoding="async" title="署名" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x" data-file-width="64" data-file-height="64"> <img alt="相同方式共享" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/24px-Cc-sa_white.svg.png" decoding="async" title="相同方式共享" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/36px-Cc-sa_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/48px-Cc-sa_white.svg.png 2x" data-file-width="64" data-file-height="64"></p>
+</td>
+<td lang="zh-cn">本文件采用<a href="https://en.wikipedia.org/wiki/zh:%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB" class="extiw" title="w:zh:知识共享">知识共享</a>署名-相同方式共享<a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/2.5/deed.zh">2.5 通用</a>、<a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/2.0/deed.zh">2.0 通用</a>和<a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/1.0/deed.zh">1.0 通用</a>许可协议授权。
+</td>
+<td style="width:90px;" rowspan="3">
+</td></tr><tr style="text-align:center;"><td style="font-weight:bold;">署名: <span style="font-size:larger;" class="licensetpl_attr"><a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">英语维基百科</a>的<a href="https://en.wikipedia.org/wiki/User:Hertzsprung" class="extiw" title="wikipedia:User:Hertzsprung">Hertzsprung</a></span>
+</td></tr><tr style="text-align:left;" lang="zh-cn"><td>
+<dl><dd>您可以自由地：
+<ul><li><b>共享</b> – 复制、发行并传播本作品</li>
+<li><b>修改</b> – 改编作品</li></ul></dd>
+<dd>惟须遵守下列条件：
+<ul><li><b>署名</b> – 您必须指出正确的原作者，提供授权条款的链接，并说明是否对原始内容进行了更改。您可以用任何合理的方式来署名，但不得以任何方式表明许可人认可您或您的使用。</li>
+<li><b>相同方式共享</b> – 如果您再混合、转换或者基于本作品进行创作，您必须以<a rel="nofollow" class="external text" href="https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses">与原先许可协议相同或相兼容的许可协议</a>分发您贡献的作品。</li></ul></dd></dl><p><span class="licensetpl_link" style="display:none;">https://creativecommons.org/licenses/by-sa/2.5
+</span><span class="licensetpl_short" style="display:none;">CC BY-SA 2.5 
+</span><span class="licensetpl_long" style="display:none;">Creative Commons Attribution-Share Alike 2.5 
+</span><span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span>
+</p>
+</td></tr></tbody></table><div class="center"><div lang="zh-cn" dir="ltr" class="description zh-cn" style="display:inline;"><i>您可以选择您需要的许可协议。</i></div></div>
+</div></td>
+</tr></tbody></table></div>
+<h2><span id=".E5.8E.9F.E5.A7.8B.E4.B8.8A.E4.BC.A0.E6.97.A5.E5.BF.97"></span><span class="mw-headline" id="原始上传日志">原始上传日志</span></h2>
+<div lang="en" dir="ltr" class="description en" style="display:inline;">The original description page was <a class="external text" href="https://en.wikipedia.org/w/index.php?title=File:Priv_rings.svg">here</a>. All following user names refer to en.wikipedia.</div>
+<ul><li>2007-08-24 18:59 <a href="https://en.wikipedia.org/wiki/User:Hertzsprung" class="extiw" title="en:User:Hertzsprung">Hertzsprung</a> 633×456× (11930 bytes) <i>Privilege rings for the x86, along with their common uses.</i></li></ul><!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20211117070832
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.245 seconds
+Real time usage: 0.345 seconds
+Preprocessor visited node count: 2768/1000000
+Post‐expand include size: 55915/2097152 bytes
+Template argument size: 7979/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 80/5000000 bytes
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 3248375/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--><!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  318.358      1 -total
+ 94.35%  300.356      1 Template:Information
+ 37.80%  120.337      1 Template:Self
+ 30.31%   96.490      2 Template:User_at_project
+ 30.08%   95.762      3 Template:LangSwitch
+ 29.01%   92.343      2 Template:User_at_project/core
+ 17.07%   54.338      1 Template:GFDL
+ 12.86%   40.946      1 Template:License_migration
+ 10.75%   34.238      1 Template:License_migration_complete
+  9.76%   31.062      1 Template:Cc-by-sa-3.0-migrated
+--><h1 class="mw-slot-header"><mediainfoslotheader></mediainfoslotheader></h1><mediainfoview style="display: none"><mediainfoviewcaptions><div class="wbmi-entityview-captionsPanel oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><h3 class="wbmi-entityview-captions-header">说明</h3><div class="wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout"><label aria-disabled="false" class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">中文（中国大陆）</label><div lang="zh-cn" dir="ltr" class="wbmi-caption-value wbmi-entityview-emptyCaption">添加一行文字以描述该文件所表现的内容</div></div></div></mediainfoviewcaptions><mediainfoviewstatements><div id="P180" data-property="P180" data-statements="[]" data-formatvalue="[]" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P180 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h3 class="wbmi-statements-title">此文件中描述的项目</h3><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P180" href="https://www.wikidata.org/wiki/Special:EntityPage/P180">描绘内容</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"></div></div></div><div id="P6216" data-property="P6216" data-statements='[{"mainsnak":{"snaktype":"value","property":"P6216","datavalue":{"value":{"entity-type":"item","numeric-id":50423863,"id":"Q50423863"},"type":"wikibase-entityid"}},"type":"statement","id":"M8950144$C19F7576-3B4E-46D1-84F8-2D40A67A66D5","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":6216,\"id\":\"P6216\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"zh-cn":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P6216\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6216\"&gt;\u7248\u6743\u72b6\u6001&lt;\/a&gt;"}},"text\/plain":{"zh-cn":{"":"\u7248\u6743\u72b6\u6001"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":50423863,\"id\":\"Q50423863\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"zh-cn":{"P6216":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q50423863\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q50423863\"&gt;\u7248\u6743\u6240\u6709&lt;\/a&gt;"}},"text\/plain":{"zh-cn":{"P6216":"\u7248\u6743\u6240\u6709"}}}}' class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6216 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P6216" href="https://www.wikidata.org/wiki/Special:EntityPage/P6216">版权状态</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M8950144$C19F7576-3B4E-46D1-84F8-2D40A67A66D5" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q50423863" href="https://www.wikidata.org/wiki/Special:EntityPage/Q50423863">版权所有</a></bdi></h4></div></div></div></div></div></div></div></div><div id="P275" data-property="P275" data-statements='[{"mainsnak":{"snaktype":"value","property":"P275","datavalue":{"value":{"entity-type":"item","numeric-id":50829104,"id":"Q50829104"},"type":"wikibase-entityid"}},"type":"statement","id":"M8950144$0F0C2EB6-BEED-4AD7-BEF8-2E9D951927E6","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P275","datavalue":{"value":{"entity-type":"item","numeric-id":14946043,"id":"Q14946043"},"type":"wikibase-entityid"}},"type":"statement","id":"M8950144$14B1512A-DCC8-467B-9D9E-828A87C8AF7D","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P275","datavalue":{"value":{"entity-type":"item","numeric-id":19068220,"id":"Q19068220"},"type":"wikibase-entityid"}},"type":"statement","id":"M8950144$DBDF61F6-B887-48E2-8703-22CEF01E01BC","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P275","datavalue":{"value":{"entity-type":"item","numeric-id":19113751,"id":"Q19113751"},"type":"wikibase-entityid"}},"type":"statement","id":"M8950144$79D27ECD-17DD-4E4E-8B6C-812E6B136785","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P275","datavalue":{"value":{"entity-type":"item","numeric-id":47001652,"id":"Q47001652"},"type":"wikibase-entityid"}},"type":"statement","id":"M8950144$9E5DF26B-FFF0-4B5B-AFC9-C9D3B31D015C","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":275,\"id\":\"P275\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"zh-cn":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P275\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P275\"&gt;\u8bb8\u53ef\u534f\u8bae&lt;\/a&gt;"}},"text\/plain":{"zh-cn":{"":"\u8bb8\u53ef\u534f\u8bae"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":50829104,\"id\":\"Q50829104\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"zh-cn":{"P275":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q50829104\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q50829104\"&gt;GNU\u81ea\u7531\u6587\u6863\u8bb8\u53ef\u8bc11.2\u6216\u66f4\u9ad8\u7248\u672c&lt;\/a&gt;&amp;nbsp;&lt;sup class=\"wb-language-fallback-indicator wb-language-fallback-transliteration\"&gt;\u7b80\u4f53\u4e2d\u6587\uff08\u5df2\u8f6c\u5199\uff09&lt;\/sup&gt;"}},"text\/plain":{"zh-cn":{"P275":"GNU\u81ea\u7531\u6587\u6863\u8bb8\u53ef\u8bc11.2\u6216\u66f4\u9ad8\u7248\u672c"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":14946043,\"id\":\"Q14946043\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"zh-cn":{"P275":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q14946043\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q14946043\"&gt;\u77e5\u8bc6\u5171\u4eab\u7f72\u540d-\u76f8\u540c\u65b9\u5f0f\u5171\u4eab3.0\u672a\u672c\u5730\u5316\u7248\u672c&lt;\/a&gt;&amp;nbsp;&lt;sup class=\"wb-language-fallback-indicator wb-language-fallback-transliteration\"&gt;\u7b80\u4f53\u4e2d\u6587\uff08\u5df2\u8f6c\u5199\uff09&lt;\/sup&gt;"}},"text\/plain":{"zh-cn":{"P275":"\u77e5\u8bc6\u5171\u4eab\u7f72\u540d-\u76f8\u540c\u65b9\u5f0f\u5171\u4eab3.0\u672a\u672c\u5730\u5316\u7248\u672c"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":19068220,\"id\":\"Q19068220\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"zh-cn":{"P275":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q19068220\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q19068220\"&gt;\u77e5\u8bc6\u5171\u4eab\u7f72\u540d-\u76f8\u540c\u65b9\u5f0f\u5171\u4eab2.0\u901a\u7528&lt;\/a&gt;&amp;nbsp;&lt;sup class=\"wb-language-fallback-indicator wb-language-fallback-transliteration\"&gt;\u7b80\u4f53\u4e2d\u6587\uff08\u5df2\u8f6c\u5199\uff09&lt;\/sup&gt;"}},"text\/plain":{"zh-cn":{"P275":"\u77e5\u8bc6\u5171\u4eab\u7f72\u540d-\u76f8\u540c\u65b9\u5f0f\u5171\u4eab2.0\u901a\u7528"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":19113751,\"id\":\"Q19113751\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"zh-cn":{"P275":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q19113751\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q19113751\"&gt;\u77e5\u8bc6\u5171\u4eab\u7f72\u540d-\u76f8\u540c\u65b9\u5f0f\u5171\u4eab2.5\u901a\u7528&lt;\/a&gt;&amp;nbsp;&lt;sup class=\"wb-language-fallback-indicator wb-language-fallback-transliteration\"&gt;\u7b80\u4f53\u4e2d\u6587\uff08\u5df2\u8f6c\u5199\uff09&lt;\/sup&gt;"}},"text\/plain":{"zh-cn":{"P275":"\u77e5\u8bc6\u5171\u4eab\u7f72\u540d-\u76f8\u540c\u65b9\u5f0f\u5171\u4eab2.5\u901a\u7528"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":47001652,\"id\":\"Q47001652\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"zh-cn":{"P275":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q47001652\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q47001652\" lang=\"en\"&gt;Creative Commons Attribution-ShareAlike 1.0 Generic&lt;\/a&gt;&amp;nbsp;&lt;sup class=\"wb-language-fallback-indicator\"&gt;\u82f1\u8bed&lt;\/sup&gt;"}},"text\/plain":{"zh-cn":{"P275":"Creative Commons Attribution-ShareAlike 1.0 Generic"}}}}' class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P275 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P275" href="https://www.wikidata.org/wiki/Special:EntityPage/P275">许可协议</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M8950144$0F0C2EB6-BEED-4AD7-BEF8-2E9D951927E6" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q50829104" href="https://www.wikidata.org/wiki/Special:EntityPage/Q50829104">GNU自由文档许可证1.2或更高版本</a> <sup class="wb-language-fallback-indicator wb-language-fallback-transliteration">简体中文（已转写）</sup></bdi></h4></div></div></div></div></div><div class="wbmi-item wbmi-item-read"><div data-guid="M8950144$14B1512A-DCC8-467B-9D9E-828A87C8AF7D" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q14946043" href="https://www.wikidata.org/wiki/Special:EntityPage/Q14946043">知识共享署名-相同方式共享3.0未本地化版本</a> <sup class="wb-language-fallback-indicator wb-language-fallback-transliteration">简体中文（已转写）</sup></bdi></h4></div></div></div></div></div><div class="wbmi-item wbmi-item-read"><div data-guid="M8950144$DBDF61F6-B887-48E2-8703-22CEF01E01BC" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q19068220" href="https://www.wikidata.org/wiki/Special:EntityPage/Q19068220">知识共享署名-相同方式共享2.0通用</a> <sup class="wb-language-fallback-indicator wb-language-fallback-transliteration">简体中文（已转写）</sup></bdi></h4></div></div></div></div></div><div class="wbmi-item wbmi-item-read"><div data-guid="M8950144$79D27ECD-17DD-4E4E-8B6C-812E6B136785" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q19113751" href="https://www.wikidata.org/wiki/Special:EntityPage/Q19113751">知识共享署名-相同方式共享2.5通用</a> <sup class="wb-language-fallback-indicator wb-language-fallback-transliteration">简体中文（已转写）</sup></bdi></h4></div></div></div></div></div><div class="wbmi-item wbmi-item-read"><div data-guid="M8950144$9E5DF26B-FFF0-4B5B-AFC9-C9D3B31D015C" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q47001652" href="https://www.wikidata.org/wiki/Special:EntityPage/Q47001652" lang="en">Creative Commons Attribution-ShareAlike 1.0 Generic</a> <sup class="wb-language-fallback-indicator">英语</sup></bdi></h4></div></div></div></div></div></div></div></div></mediainfoviewstatements></mediainfoview><!-- Saved in parser cache with key commonswiki:pcache:idhash:8950144-0!userlang=zh-cn!wb=3 and timestamp 20211117070831 and revision id 600678120. Serialized with JSON.
+ --><!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20211117070832
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.245 seconds
+Real time usage: 0.345 seconds
+Preprocessor visited node count: 2768/1000000
+Post‐expand include size: 55915/2097152 bytes
+Template argument size: 7979/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 80/5000000 bytes
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 3248375/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--><!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  318.358      1 -total
+ 94.35%  300.356      1 Template:Information
+ 37.80%  120.337      1 Template:Self
+ 30.31%   96.490      2 Template:User_at_project
+ 30.08%   95.762      3 Template:LangSwitch
+ 29.01%   92.343      2 Template:User_at_project/core
+ 17.07%   54.338      1 Template:GFDL
+ 12.86%   40.946      1 Template:License_migration
+ 10.75%   34.238      1 Template:License_migration_complete
+  9.76%   31.062      1 Template:Cc-by-sa-3.0-migrated
+--></div></div>
+<h2 id="filehistory">文件历史</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>点击某个日期/时间查看对应时刻的文件。
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>日期/时间</th><th>缩⁠略⁠图</th><th>大小</th><th>用户</th><th>备注</th></tr>
+<tr><td>当前</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/2/2f/Priv_rings.svg">2020年12月17日 (四) 11:57</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/2/2f/Priv_rings.svg"><img alt="2020年12月17日 (四) 11:57版本的缩略图" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/120px-Priv_rings.svg.png" decoding="async" width="120" height="87" data-file-width="675" data-file-height="487" /></a></td><td>675 × 487<span style="white-space: nowrap;">（1 KB）</span></td><td>Andreasl01</td><td dir="ltr">Simplified code</td></tr>
+<tr><td></td><td  style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/archive/2/2f/20201217115742%21Priv_rings.svg">2019年3月10日 (日) 09:18</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/archive/2/2f/20201217115742%21Priv_rings.svg"><img alt="2019年3月10日 (日) 09:18版本的缩略图" src="//upload.wikimedia.org/wikipedia/commons/thumb/archive/2/2f/20201217115742%21Priv_rings.svg/120px-Priv_rings.svg.png" decoding="async" width="120" height="87" data-file-width="675" data-file-height="487" /></a></td><td>675 × 487<span style="white-space: nowrap;">（3 KB）</span></td><td>AndreyKva</td><td dir="ltr">Optimized.</td></tr>
+<tr><td></td><td  style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/archive/2/2f/20190310091802%21Priv_rings.svg">2012年9月6日 (四) 23:52</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/archive/2/2f/20190310091802%21Priv_rings.svg"><img alt="2012年9月6日 (四) 23:52版本的缩略图" src="//upload.wikimedia.org/wikipedia/commons/thumb/archive/2/2f/20190310091802%21Priv_rings.svg/120px-Priv_rings.svg.png" decoding="async" width="120" height="86" data-file-width="633" data-file-height="456" /></a></td><td>633 × 456<span style="white-space: nowrap;">（10 KB）</span></td><td>OgreBot</td><td dir="ltr">(BOT): Reverting to most recent version before archival</td></tr>
+<tr><td></td><td  style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/archive/2/2f/20120906235233%21Priv_rings.svg">2012年9月6日 (四) 23:52</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/archive/2/2f/20120906235233%21Priv_rings.svg"><img alt="2012年9月6日 (四) 23:52版本的缩略图" src="//upload.wikimedia.org/wikipedia/commons/thumb/archive/2/2f/20120906235233%21Priv_rings.svg/120px-Priv_rings.svg.png" decoding="async" width="120" height="86" data-file-width="633" data-file-height="456" /></a></td><td>633 × 456<span style="white-space: nowrap;">（12 KB）</span></td><td>OgreBot</td><td dir="ltr">(BOT): Uploading old version of file from en.wikipedia; originally uploaded on 2007-08-24 18:59:19 by <a href="https://en.wikipedia.org/wiki/User:Hertzsprung" class="extiw" title="en:User:Hertzsprung">Hertzsprung</a></td></tr>
+<tr><td></td><td  style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/archive/2/2f/20120906235227%21Priv_rings.svg">2010年1月10日 (日) 04:30</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/archive/2/2f/20120906235227%21Priv_rings.svg"><img alt="2010年1月10日 (日) 04:30版本的缩略图" src="//upload.wikimedia.org/wikipedia/commons/thumb/archive/2/2f/20120906235227%21Priv_rings.svg/120px-Priv_rings.svg.png" decoding="async" width="120" height="86" data-file-width="633" data-file-height="456" /></a></td><td>633 × 456<span style="white-space: nowrap;">（10 KB）</span></td><td>Daemorris</td><td dir="ltr">{{Information |Description=Privilege rings for the x86, along with their common uses. |Source=https://secure.wikimedia.org/wikipedia/en/wiki/File:Priv_rings.svg |Date=10/01/2010 |Author=Hertzsprung |Permission={{{GFDL-user-w|en|wikipedia|Hertzsprung}} |ot</td></tr>
+</table>
+
+</div>
+<h2 id="filelinks">文件用途</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>以下4个页面使用本文件：
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/%E5%88%86%E7%BA%A7%E4%BF%9D%E6%8A%A4%E5%9F%9F" title="分级保护域">分级保护域</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/%E7%89%B9%E6%9D%83%E6%8F%90%E5%8D%87" title="特权提升">特权提升</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/%E8%8B%B1%E7%89%B9%E5%B0%94%E7%AE%A1%E7%90%86%E5%BC%95%E6%93%8E" title="英特尔管理引擎">英特尔管理引擎</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Saiisa/Intel_me" title="User:Saiisa/Intel me">User:Saiisa/Intel me</a></li>
+</ul>
+</div>
+<h2 id="globalusage">全域文件用途</h2>
+<div id="mw-imagepage-section-globalusage"><p>以下其他wiki使用此文件：
+</p><ul>
+<li class='mw-gu-onwiki-az_wikipedia_org'>az.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://az.wikipedia.org/wiki/M%C3%BChafiz%C9%99_halqalar%C4%B1">Mühafizə halqaları</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ca_wikipedia_org'>ca.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://ca.wikipedia.org/wiki/Anells_(seguretat_inform%C3%A0tica)">Anells (seguretat informàtica)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-de_wikipedia_org'>de.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://de.wikipedia.org/wiki/Rechteausweitung">Rechteausweitung</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-en_wikipedia_org'>en.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://en.wikipedia.org/wiki/Operating_system">Operating system</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Protected_mode">Protected mode</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Privilege_escalation">Privilege escalation</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Protection_ring">Protection ring</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/File:Priv_rings.png">File:Priv rings.png</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Principle_of_least_privilege">Principle of least privilege</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Intel_Management_Engine">Intel Management Engine</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-es_wikipedia_org'>es.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://es.wikipedia.org/wiki/Anillo_(seguridad_inform%C3%A1tica)">Anillo (seguridad informática)</a></li>
+	<li><a class="external" href="https://es.wikipedia.org/wiki/Escalada_de_privilegios">Escalada de privilegios</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fa_wikipedia_org'>fa.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://fa.wikipedia.org/wiki/%D8%AD%D9%84%D9%82%D9%87_%D8%AD%D9%81%D8%A7%D8%B8%D8%AA%DB%8C">حلقه حفاظتی</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fr_wikipedia_org'>fr.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://fr.wikipedia.org/wiki/Principe_de_moindre_privil%C3%A8ge">Principe de moindre privilège</a></li>
+	<li><a class="external" href="https://fr.wikipedia.org/wiki/Anneau_de_protection">Anneau de protection</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fr_wikibooks_org'>fr.wikibooks.org上的用途
+<ul>	<li><a class="external" href="https://fr.wikibooks.org/wiki/Les_syst%C3%A8mes_d%27exploitation/Le_noyau_d%27un_syst%C3%A8me_d%27exploitation">Les systèmes d'exploitation/Le noyau d'un système d'exploitation</a></li>
+	<li><a class="external" href="https://fr.wikibooks.org/wiki/Les_syst%C3%A8mes_d%27exploitation/Version_imprimable">Les systèmes d'exploitation/Version imprimable</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-hy_wikipedia_org'>hy.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://hy.wikipedia.org/wiki/%D5%8C%D5%AB%D5%B6%D5%A3">Ռինգ</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-it_wikiversity_org'>it.wikiversity.org上的用途
+<ul>	<li><a class="external" href="https://it.wikiversity.org/wiki/Tecnologie_di_virtualizzazione">Tecnologie di virtualizzazione</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ja_wikipedia_org'>ja.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">オペレーティングシステム</a></li>
+	<li><a class="external" href="https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%83%88%E3%83%A2%E3%83%BC%E3%83%89">プロテクトモード</a></li>
+	<li><a class="external" href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3">リングプロテクション</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ko_wikipedia_org'>ko.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C">운영 체제</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EB%B3%B4%ED%98%B8_%EB%A7%81">보호 링</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EA%B6%8C%ED%95%9C_%ED%99%95%EB%8C%80">권한 확대</a></li>
+	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EA%B6%8C%ED%95%9C_%EC%88%98%EC%A4%80">권한 수준</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-no_wikipedia_org'>no.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://no.wikipedia.org/wiki/Linuxkjernen">Linuxkjernen</a></li>
+	<li><a class="external" href="https://no.wikipedia.org/wiki/Beskyttelsesring">Beskyttelsesring</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-pa_wikipedia_org'>pa.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A9%8D%E0%A8%B0%E0%A8%BF%E0%A8%B5%E0%A8%BF%E0%A8%B2%E0%A8%9C_%E0%A8%90%E0%A8%B8%E0%A8%95%E0%A9%88%E0%A8%B2%E0%A9%88%E0%A8%B8%E0%A8%BC%E0%A8%A8">ਪ੍ਰਿਵਿਲਜ ਐਸਕੈਲੈਸ਼ਨ</a></li>
+	<li><a class="external" href="https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A9%8D%E0%A8%B0%E0%A9%80%E0%A8%B5%E0%A8%B2%E0%A9%87%E0%A8%9C_%E0%A8%8F%E0%A8%B8%E0%A8%95%E0%A9%87%E0%A8%B2%E0%A9%87%E0%A8%B8%E0%A8%BC%E0%A8%A8">ਪ੍ਰੀਵਲੇਜ ਏਸਕੇਲੇਸ਼ਨ</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-pt_wikipedia_org'>pt.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://pt.wikipedia.org/wiki/N%C3%BAcleo_(sistema_operacional)">Núcleo (sistema operacional)</a></li>
+	<li><a class="external" href="https://pt.wikipedia.org/wiki/Sistema_Operacional_em_Camadas">Sistema Operacional em Camadas</a></li>
+	<li><a class="external" href="https://pt.wikipedia.org/wiki/Escalonamento_de_privil%C3%A9gios">Escalonamento de privilégios</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ru_wikiversity_org'>ru.wikiversity.org上的用途
+<ul>	<li><a class="external" href="https://ru.wikiversity.org/wiki/%D0%AF%D0%B4%D1%80%D0%BE_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B">Ядро архитектуры</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ta_wikipedia_org'>ta.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%B2%E0%AF%81%E0%AE%95%E0%AF%88_%E0%AE%85%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B0%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81">சலுகை அதிகரிப்பு</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-tr_wikipedia_org'>tr.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://tr.wikipedia.org/wiki/Intel_Management_Engine">Intel Management Engine</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-uk_wikipedia_org'>uk.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://uk.wikipedia.org/wiki/Intel_Management_Engine">Intel Management Engine</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-vi_wikipedia_org'>vi.wikipedia.org上的用途
+<ul>	<li><a class="external" href="https://vi.wikipedia.org/wiki/H%E1%BB%87_%C4%91i%E1%BB%81u_h%C3%A0nh">Hệ điều hành</a></li>
+	<li><a class="external" href="https://vi.wikipedia.org/wiki/Ch%E1%BA%BF_%C4%91%E1%BB%99_b%E1%BA%A3o_v%E1%BB%87">Chế độ bảo vệ</a></li>
+</ul></li>
+</ul>
+</div><h2 id="metadata">元数据</h2>
+<div class="mw-imagepage-section-metadata"><p>此文件中包含有扩展的信息。这些信息可能是由数码相机或扫描仪在创建或数字化过程中所添加。
+</p><p>
+如果此文件的源文件已经被修改，一些信息在修改后的文件中将不能完全反映出来。</p><table id="mw_metadata" class="mw_metadata collapsed">
+<tbody><tr class="exif-imagewidth mw-metadata-collapsible"><th>宽度</th><td>675</td></tr><tr class="exif-imagelength mw-metadata-collapsible"><th>高度</th><td>487</td></tr></tbody></table>
+</div><noscript><img src="//zh.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">取自“<a dir="ltr" href="https://zh.wikipedia.org/wiki/File:Priv_rings.svg">https://zh.wikipedia.org/wiki/File:Priv_rings.svg</a>”</div></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>导航菜单</h2>
+	<div id="mw-head">
+		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-personal-label" aria-label="" class="vector-menu-heading">
+		
+		<span>个人工具</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span>没有登录</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]" accesskey="n"><span>讨论</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=File%3APriv+rings.svg" title="建议您创建一个账户并登录，不过这不是强制的"><span>创建账户</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=File%3APriv+rings.svg" title="建议你登录，尽管并非必须。[o]" accesskey="o"><span>登录</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-namespaces-label" aria-label="" class="vector-menu-heading">
+		
+		<span>命名空间</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-image" class="selected mw-list-item"><a href="/wiki/File:Priv_rings.svg" title="查看文件页面[c]" accesskey="c"><span>文件</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=File_talk:Priv_rings.svg&amp;action=edit&amp;redlink=1" rel="discussion" title="关于此页面的讨论（页面不存在）[t]" accesskey="t"><span>讨论</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-variants" class="mw-portlet mw-portlet-variants vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" aria-label="更改语言变体" class="vector-menu-heading">
+		
+		<span>大陆简体</span>
+			<span class="vector-menu-checkbox-expanded">已展开</span>
+			<span class="vector-menu-checkbox-collapsed">已折叠</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-varlang-0" class="mw-list-item"><a href="/zh/File:Priv_rings.svg" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="mw-list-item"><a href="/zh-hans/File:Priv_rings.svg" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="mw-list-item"><a href="/zh-hant/File:Priv_rings.svg" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="selected mw-list-item"><a href="/zh-cn/File:Priv_rings.svg" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="mw-list-item"><a href="/zh-hk/File:Priv_rings.svg" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="mw-list-item"><a href="/zh-mo/File:Priv_rings.svg" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="mw-list-item"><a href="/zh-my/File:Priv_rings.svg" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="mw-list-item"><a href="/zh-sg/File:Priv_rings.svg" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="mw-list-item"><a href="/zh-tw/File:Priv_rings.svg" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-views-label" aria-label="" class="vector-menu-heading">
+		
+		<span>查看</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/File:Priv_rings.svg"><span>阅读</span></a></li><li id="ca-view-foreign" class="mw-list-item"><a href="https://commons.wikimedia.org/wiki/File:Priv_rings.svg"><span>在维基共享资源查看</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=File:Priv_rings.svg&amp;action=edit" title="编辑本页[e]" accesskey="e"><span>添加本地描述</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="更多选项"
+	  lang="zh-Hans-CN" dir="ltr">
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" aria-label="" class="vector-menu-heading">
+		
+		<span>更多</span>
+			<span class="vector-menu-checkbox-expanded">已展开</span>
+			<span class="vector-menu-checkbox-collapsed">已折叠</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" class=" vector-search-box">
+	<div>
+			<h3  lang="zh-Hans-CN" dir="ltr">
+				<label for="searchInput">搜索</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科[f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Special:搜索"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="搜索含这些文字的页面" value="搜索" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="若相同标题存在，则直接前往该页面" value="前往" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5"
+			title="首页"></a>
+	</div>
+	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-navigation-label" aria-label="" class="vector-menu-heading">
+		
+		<span>导航</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在维基百科受益良多，您可以考虑资助我们"><span>资助维基百科</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-help" class="mw-portlet mw-portlet-help vector-menu vector-menu-portal portal" aria-labelledby="p-help-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-help-label" aria-label="" class="vector-menu-heading">
+		
+		<span>帮助</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-tb-label" aria-label="" class="vector-menu-heading">
+		
+		<span>工具</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/File:Priv_rings.svg" title="列出所有与本页相链的页面[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=File:Priv_rings.svg&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	  lang="zh-Hans-CN" dir="ltr">
+	<h3 id="p-lang-label" aria-label="" class="vector-menu-heading">
+		
+		<span>其他语言</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo"  lang="zh-Hans-CN" dir="ltr">
+	<ul id="footer-info">
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="Wikipedia:关于">关于维基百科</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="Wikipedia:免责声明">免责声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=File:Priv_rings.svg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie声明</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.001","walltime":"0.001","ppvisitednodes":{"value":2,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw1387","timestamp":"20211207131142","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":387,"wgHostname":"mw1387"});});</script>
+</body>
+</html>
